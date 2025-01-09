@@ -15,7 +15,7 @@ This repository contains a **Bank Customer Churn Analysis Dashboard** designed t
 
 ## **Tools and Technologies**  
 - **Visualization**: Power BI  
-- **Data Preprocessing**: Excel  
+- **Data Preprocessing**: Power BI  
 - **Data Source**: Bank customer dataset (structured data with key attributes).  
 
 ---
@@ -41,7 +41,7 @@ The primary objective of this dashboard is to identify customer churn patterns a
 ---
 
 ## **How to Use**  
-1. Download the `.pbix` file (Power BI project) or view the screenshots.  
+1. Download the `.pbix` file [Power BI project](https://github.com/Lavanya-chintha/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis.pbix) or view the screenshots.  
 2. Open the file in Power BI Desktop to explore the interactive dashboard.  
 3. Use filters to analyze churn rates across different dimensions.
 
@@ -49,7 +49,7 @@ The primary objective of this dashboard is to identify customer churn patterns a
 
 ## **Preview**  
 Here’s a glimpse of the dashboard:  
-![Churn Analysis Dashboard](link-to-image-if-uploaded)
+![Churn Analysis Dashboard](https://github.com/Lavanya-chintha/Customer-Churn-Analysis/blob/main/Bank%20Customer%20Churn%20Analysis%20Dashboard%20Preview.png)
 
 ---
 
